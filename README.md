@@ -21,7 +21,7 @@ Note:
 ## Editor Screen Overview ##
 Once loaded into the Level Editor, there are a few areas of interest
 ![Screen Overview](../../Resources/Images/Editor_Overview.png)
-#### <u>Layers</u> ####
+### Layers ###
 Dustforce Levels are broken up into different layers. Each layer(s) have different properties but adhere to similar rules. You can toggle each layer's visibility by clicking the corresponding first box, and you can lock each layer by clicking the corresponding second box (locked from edits).
 
 - Layers 1-5 - Backdrop Layers
